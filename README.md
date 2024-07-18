@@ -1,12 +1,68 @@
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Tharusha Rathnayaka!</h1>
+</div>
+
+<div align="center">
+  <h1>🚀 About Me</h1>
+</div>
+ 
+
+I'm a passionate **Full Stack Developer** with a knack for building scalable web applications and solving challenging problems. Currently, I'm pursuing my undergraduate studies at SLIIT, where I'm honing my skills in both frontend and backend development.
+
+- 🌱 I’m currently learning **MERN**
+- 👯 I’m looking to collaborate on **MERN or JAVA** projects
+- 🤔 I’m looking for help with **OOP**
+- 💬 Ask me about **Web Development, JavaScript, Java, or anything tech-related**
+- 📫 How to reach me: **[rathnayakarcc@gmail.com](mailto:rathnayakarcc@gmail.com)**
+
+<div align="center">
+  <h1>🛠️ Technologies & Tools</h1>
+</div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaestro2001" alt="codemaestro2001" /></a> </p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p align="left">
-</p>
+<div align="center">
+  <h1>🌍 Connect with Me</h1>
+</div
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaestro2001&show_icons=true&locale=en&layout=compact" alt="codemaestro2001" /></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tharusha-rathnayaka-b46119285/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio-url.com)
+<div align="center"><h1> 📈 GitHub Stats</h1></div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaestro2001&show_icons=true&theme=radical" alt="Tharusha's GitHub Stats" style="margin-right: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestro2001&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+<div align="center"><h1>🔥 Streak Stats</h1></div>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestro2001&theme=radical)
+<div align="center"><h1>🏆 GitHub Trophies</h1></div>
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeMaestro2001&theme=radical&no-frame=true&margin-w=10)
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 30 mins ███████████░░░░░░░░░░░░░░░
+HTML         5 hrs          ██████░░░░░░░░░░░░░░░░░░░
+CSS          4 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░
+Java         2 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░
+Other        1 hr           ░░░░░░░░░░░░░░░░░░░░░░░░░
+
