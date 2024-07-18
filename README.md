@@ -48,9 +48,10 @@ I'm a passionate **Full Stack Developer** with a knack for building scalable web
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestro2001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <div align="center"><h1>🔥 Streak Stats</h1></div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestro2001&theme=radical" alt="GitHub Streak" />
+</div>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestro2001&theme=radical)
 <div align="center"><h1>🏆 GitHub Trophies</h1></div>
 
 
